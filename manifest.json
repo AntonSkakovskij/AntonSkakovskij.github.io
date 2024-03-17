@@ -45,5 +45,9 @@
     {
       "src": "icons/256x256.png",
       "sizes": "256x256"
+    },
+    {
+      "src": "icons/512x512.png",
+      "sizes": "512x512"
     }
   ]}
