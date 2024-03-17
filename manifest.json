@@ -1,5 +1,5 @@
 {
-  "background_color": "#ff2fd3",
+  "background_color": "#ffffff",
   "description": "This website helps to track student progress",
   "dir": "ltr",
   "display": "standalone",
@@ -7,7 +7,43 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "antonskakovskij.github",
-  "start_url": "/",
+  "start_url": "https://antonskakovskij.github.io/",
   "theme_color": "#ffffff",
-  "lang": "en"
-}
+  "lang": "en",
+  "related-applications" : "",
+  "prefer-related-applications" : "false",
+  "generated" : "true",
+  "icon" : [
+    {
+      "src": "icons/44x44.png",
+      "sizes": "44x44"
+    },
+    {
+      "src": "icons/48x48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icons/60x60.png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "icons/64x64.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "icons/72x72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "icons/80x80.png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "icons/96x96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "icons/256x256.png",
+      "sizes": "256x256"
+    }
+  ]}
