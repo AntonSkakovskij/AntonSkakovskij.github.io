@@ -13,7 +13,7 @@
   "related-applications" : "",
   "prefer-related-applications" : "false",
   "generated" : "true",
-  "icon" : [
+  "icons" : [
     {
       "src": "icons/44x44.png",
       "sizes": "44x44"
