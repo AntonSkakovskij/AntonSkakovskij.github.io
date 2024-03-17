@@ -1,0 +1,13 @@
+{
+  "background_color": "#ff2fd3",
+  "description": "This website helps to track student progress",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "antonskakovskij.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "antonskakovskij.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "lang": "en"
+}
